@@ -1,0 +1,8 @@
+amazon:
+  aws:
+    access-key: luna
+    secret-key: jjang
+  dynamodb:
+    endpoint: http://localhost:8008
+    region: ap-northeast-2
+
